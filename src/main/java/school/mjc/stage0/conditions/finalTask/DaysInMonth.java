@@ -34,7 +34,7 @@ public class DaysInMonth {
                 days = -1; // Invalid month
         }
         if (days == -1) {
-            System.out.println("Invalid date");
+            System.out.println("invalid date");
         } else {
             System.out.println("Number of days in month: " + days);
         }
